@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4dd095d-8108-4e28-b17b-1d1f7e28d210" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/messages1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/implementations/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/implementations/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/AbstractQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interfaces/AbstractQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/messages.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/Queue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/Queue$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/Queue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/Stack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/Stack$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/Stack$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/AbstractQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaces/AbstractQueue.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IrrsJqPU7tfUfprDnMxXanT2pZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PHANMINHTIEN/Downloads/Messages&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Messages" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4dd095d-8108-4e28-b17b-1d1f7e28d210" name="Changes" comment="" />
+      <created>1670950749826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670950749826</updated>
+      <workItem from="1670950752986" duration="1897000" />
+      <workItem from="1670955343102" duration="268000" />
+      <workItem from="1670999878818" duration="3058000" />
+      <workItem from="1671006255646" duration="7750000" />
+      <workItem from="1671030239316" duration="5432000" />
+      <workItem from="1671084335574" duration="4830000" />
+      <workItem from="1671117405095" duration="2986000" />
+      <workItem from="1671160181961" duration="12557000" />
+      <workItem from="1671199673002" duration="6924000" />
+      <workItem from="1671374933565" duration="1536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
